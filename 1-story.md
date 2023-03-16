@@ -46,7 +46,7 @@ Elf decided against eavesdropping and chose to look for another way to gather in
 
 The bartender revealed that he had seen some suspicious characters lurking around the kingdom lately, but he didn't know much more than that. Elf thanked the bartender for the information and returned to the great hall to share his findings with T-Wiz.
 
-[Continue to Chapter 5.](#chapter-5)
+[Continue to Chapter 5.](#chapter-5-united-knowledge)
 
 ## Chapter 3B: Crypto
 T-Wiz chose to read "The Rise and Fall of Cryptocurrency." He delved into the history of digital currencies and their impact on various societies. He discovered that Bitcoin was not only a currency but also a powerful tool for controlling financial systems.
