@@ -53,14 +53,14 @@ T-Wiz chose to read "The Rise and Fall of Cryptocurrency." He delved into the hi
 
 T-Wiz realized that the Bitcoin-banker could use this knowledge to manipulate the dwarven economy and gain power. He made a mental note of the key points in the book and rushed back to the great hall to share his findings with Elf.
 
-[Continue to Chapter 5.](#chapter-5)
+[Continue to Chapter 5.](#chapter-5-united-knowledge)
 
 ## Chapter 3B: Dark Web
 T-Wiz decided to read "Secrets of the Dark Web: A Magical Investigation." He learned about hidden networks and underground marketplaces where criminals operated. He also discovered that the dark web was home to powerful magical artifacts that could be used for nefarious purposes.
 
 As T-Wiz read on, he began to suspect that the Bitcoin-banker might be harnessing dark magic to further his ambitions. He quickly gathered the most important information and returned to the great hall to share his findings with Elf.
 
-[Continue to Chapter 5.](#chapter-5)
+[Continue to Chapter 5.](#chapter-5-united-knowledge)
 
 ## Chapter 4A: Confront
 Elf decided to confront the dwarves directly. He strode over to their table, his eyes narrowing as he demanded answers. Caught off guard, the dwarves hesitated before revealing that they were part of a resistance group fighting against the Bitcoin-banker's plans.
@@ -76,28 +76,28 @@ Elf decided not to confront the dwarves and returned to the great hall to share 
 
 T-Wiz, in turn, shared what he had learned from his research. The two friends considered their options and decided to formulate a plan to stop the Bitcoin-banker.
 
-[Continue to Chapter 7.](#chapter-7)
+[Continue to Chapter 7.](#chapter-7-the-plan)
 
 ## Chapter 5: United Knowledge
 Elf and T-Wiz met in the great hall, sharing the information they had gathered separately. As they pieced together the puzzle, they realized the Bitcoin-banker's plans were even more sinister than they had initially thought. He aimed to use dark magic, technology, and economic manipulation to bring the dwarven kingdom to its knees.
 
 The duo knew they had to act fast to protect their kingdom. They decided to rally their allies and confront the Bitcoin-banker directly.
 
-[Continue to Chapter 8.](#chapter-8)
+[Continue to Chapter 8.](#chapter-8-rallying-the-troops)
 
 ## Chapter 6A: Join
 Elf decided to join the resistance group. He and T-Wiz, now accompanied by their new allies, set out to gather more information and disrupt the Bitcoin-banker's plans. They conducted daring raids on strongholds, intercepted secret messages, and forged new alliances.
 
 With the support of the resistance, Elf and T-Wiz began to turn the tide against the Bitcoin-banker, weakening his grip on the kingdom.
 
-[Continue to Chapter 9.](#chapter-9)
+[Continue to Chapter 9.](#chapter-9-turning-the-tide)
 
 ## Chapter 6A: T-Wiz
 Elf opted to continue working with T-Wiz, convinced that their combined skills would be enough to thwart the Bitcoin-banker. The pair embarked on a series of dangerous missions to gather intelligence, disrupt supply lines, and expose the banker's network of collaborators.
 
 Through their tireless efforts, Elf and T-Wiz slowly weakened the Bitcoin-banker's influence in the kingdom.
 
-[Continue to Chapter 9.](#chapter-9)
+[Continue to Chapter 9.](#chapter-9-turning-the-tide)
 
 ## Chapter 7: The Plan
 With the information they had gathered, Elf and T-Wiz formulated a plan to stop the Bitcoin-banker once and for all. They would infiltrate his secret lair, disable his magical and technological defenses, and bring him to justice.
@@ -111,14 +111,14 @@ Elf and T-Wiz gathered their allies and prepared for the ultimate confrontation 
 
 Determined to stand together against tyranny, Elf, T-Wiz, and their allies marched toward the Bitcoin-banker's stronghold, ready to face their greatest challenge yet.
 
-[Continue to Chapter 10.](#chapter-10)
+[Continue to Chapter 10.](#chapter-10-the-final-battle)
 
 ## Chapter 9: Turning the Tide
 Elf and T-Wiz, either working with the resistance or on their own, continued to weaken the Bitcoin-banker's grip on the kingdom. The tyrant's plans began to unravel, and the dwarven people started to reclaim their freedom.
 
 Realizing that the time had come for a final confrontation, Elf and T-Wiz rallied their allies and prepared to face the Bitcoin-banker in his hidden fortress.
 
-[Continue to Chapter 10.](#chapter-10)
+[Continue to Chapter 10.](#chapter-10-the-final-battle)
 
 ## Chapter 10: The Final Battle
 Elf, T-Wiz, and their allies stormed the Bitcoin-banker's stronghold. The battle was fierce, with both sides wielding powerful magic and technology. However, the combined might of Elf's cunning, T-Wiz's logic, and the determination of their allies proved to be too much for the tyrant.
