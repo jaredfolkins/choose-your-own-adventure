@@ -104,7 +104,7 @@ With the information they had gathered, Elf and T-Wiz formulated a plan to stop 
 
 The two friends embarked on their perilous journey, determined to save their kingdom from tyranny.
 
-[Continue to Chapter 9.](#chapter-9)
+[Continue to Chapter 9.](#chapter-9-turning-the-tide)
 
 ## Chapter 8: Rallying the Troops
 Elf and T-Wiz gathered their allies and prepared for the ultimate confrontation with the Bitcoin-banker. As they assembled their forces, they discussed strategies, shared information, and fortified themselves for the battle ahead.
